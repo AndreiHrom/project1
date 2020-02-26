@@ -1,0 +1,26 @@
+img{
+    width:  200px;
+    height:  200px;
+}
+
+/*comments*/
+
+
+div{
+  border:2px solid red;
+  text-align: center;
+}
+
+p{
+    color: green;
+}
+
+.text1{
+    color:red;
+    font-size: 40px;
+    font-family: 'Trade Winds' ;
+}
+
+h1{
+    font-family: 'Trade Winds', ;
+}
